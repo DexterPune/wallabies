@@ -1,0 +1,254 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="wallabies_warm.main" %>
+
+<!DOCTYPE html>
+<html lang="zxx">
+<head runat="server">
+    <title>Wallabies Warm Care | Pharmacle Health Care inc</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="keywords" content="Patient Forced Air Warming System, Patient Forced Air Warming Blankets,  Patient Forced Air Warmer,  Patient Warming Systems,  Patient Warmer,  Normothermia Equipment,  Patient Thermoregulation System,  Patient Warming Devices, Terms Of Use, Digital Millennium Copyright Act (DMCA) Notification,  Wallabies Forced Air Patient Warming Unit,  Wallabies Forced Air Patient Warming Blanket,  Symbol and Description" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-meta-tags-->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" Department="" />
+<link href="css/services.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/ziehharmonika.css" rel="stylesheet" type="text/css">
+<link href="css/JiSlider.css" rel="stylesheet"> 
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!-- //font-awesome icons -->
+<link href="//fonts.googleapis.com/css?family=Raleway:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,900" rel="stylesheet">
+<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="main" id="home">
+<!-- banner -->
+		<div class="header_agileinfo">
+						<div class="w3_agileits_header_text">
+								<ul class="top_agile_w3l_info_icons">
+									<!--li class="second"><i class="fa fa-phone" aria-hidden="true"></i>(+000) 123 456 87</li-->
+									<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:info@wallabieswarmcares.com">info@wallabieswarmcares.com</a></li>
+								</ul>
+						</div>
+                        <div id="google_translate_element" class =" text-right "></div>
+						<div class="clearfix"> </div>
+			</div>	
+		<div class="header-bottom">
+			<nav class="navbar navbar-default">
+                <div class =" row"> 
+                    <div class =" col-md-4 text-Brochure ">  <img src="images/logo.jpeg" alt="Wallabies Warm Care" title="Wallabies Warm Care" style="height:65px;" /></div>
+                    <div class =" col-md-4"></div>
+                    <div class =" col-md-4 text-Brochure ">  <img src="images/pharma.png" alt="Wallabies Warm Care" title="Wallabies Warm Care" style="height:65px;"/><img src="images/ISO-CE.png" alt ="" style ="height:65px;" /></div>
+                </div>
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+					<div class="logo">
+						
+					</div>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse nav-wil row" id="bs-example-navbar-collapse-1">
+			    	<nav class="menu menu--sebastian">
+					<ul id="m_nav_list" class="m_nav menu__list text-Brochure ">
+						<li class="m_nav_item menu__item menu__item--current" id="m_nav_item_1"> <a href="default.aspx" class="menu__link"> Home </a></li>
+						<li class="m_nav_item menu__item" id="Li3"><a href="patient-thermoregulation-system.aspx" class="menu__link">Patient <br/>Thermoregulatiom</a> </li>		
+                        <li class="m_nav_item menu__item" id="Li2"> <a href="#" class="menu__link dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a> 
+						   <ul class="dropdown-menu agile_short_dropdown">
+                                  <li><a href="wallabies-forced-air-patient-warming-unit.aspx" class="drop-text">Wallabies Forced Air Patient Warming Unit</a></li>
+                                  <li><a href="wallabies-forced-air-patient-warming-blanket.aspx" class="drop-text">Wallabies Forced Air Patient Warming Blanket</a></li>
+                                  <li><a href="wallabies-warm-care-Terms-Of-Use.aspx" class ="drop-text">Instruction</a></li>
+                            </ul>
+						</li>
+                        <li class="m_nav_item menu__item" id="moble_nav_item_6"><a href="warm-care-clean-room.aspx" class="menu__link">Clean Room</a></li>
+                        <li class="m_nav_item menu__item" id="Li1"> <a href="#" class="menu__link dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a> 
+						   <ul class="dropdown-menu agile_short_dropdown">
+                                  <li><a href="wallabies-warm-care-gallery.aspx" class="drop-text">Gallery</a></li>
+                                  <li><a href="patient-warmer.aspx" class="drop-text">Video</a></li>
+                            </ul>
+						</li>
+                        <li class="m_nav_item menu__item" id="moble_nav_item_4"><a href="wallabies-warm-care-download-Brochure.aspx" class="menu__link">Download<br/> Brochure</a></li>
+                        <li class="m_nav_item menu__item" id="moble_nav_item_5"><a href="wallabies-warm-patient-warming-contact.aspx" class="menu__link">Contact Us</a></li>
+                        <li class="m_nav_item menu__item" id="moble_nav_item_2"> <a href="warm-care-services.aspx" class="menu__link"> Warmer Manual </a> </li>		
+					</ul>
+				</nav>
+                </div>
+				<!-- /.navbar-collapse -->
+			</nav>
+	 </div>
+</div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <!-- footer -->
+	<div class="footer">
+		<div class="container">
+			<div class="agile_footer_copy">
+				<div class="w3agile_footer_grids">
+					<div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
+						<h3>Navigation</h3>
+						<ul>
+                        <li> <a href="default.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp; Home </a></li>
+						<li><a href="patient-thermoregulation-system.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Patient Thermoregulatiom</a> </li>		
+                        <li><a href="wallabies-forced-air-patient-warming-unit.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Wallabies Forced Air Patient Warming Unit</a></li>
+                        <li><a href="wallabies-forced-air-patient-warming-blanket.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Wallabies Forced Air Patient Warming Blanket</a></li>
+                        <li><a href="wallabies-warm-care-Terms-Of-Use.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Instruction</a></li>
+                        </ul>
+					</div>
+                    <div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
+						<h3>Navigation</h3>
+						<ul>
+                       <li><a href="warm-care-clean-room.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Clean Room</a></li>
+                        <li><a href="wallabies-warm-care-gallery.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Gallery</a></li>
+                        <li><a href="patient-warmer.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Video</a></li>
+                        <li><a href="wallabies-warm-care-download-Brochure.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Download Brochure</a></li>
+                        <li><a href="wallabies-warm-patient-warming-contact.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Contact Us</a></li>
+                        <li> <a href="warm-care-services.aspx"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;&nbsp; Warmer Manual </a> </li>		
+                        </ul>
+					</div>
+                    <div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
+						<h3>Address</h3>
+						  <p>Pharmacle Health Care Inc.<br/> 10212 Yonge Street, 202, Richmond Hill, Ontario, Canada, L4C 3B6</p><br/>
+						<h3>Email</h3>
+						  <p><a href="mailto:info@wallabieswarmcares.com" style="color:white">info@wallabieswarmcares.com</a>
+						 
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<div class="w3_agileits_copy_right_social">
+				<div class="agileits_w3layouts_copy_right">
+                 <p class="copy-footer-28">&copy; 2023. Pharmacle Health Care Inc. All rights reserved.</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+<!-- //footer -->
+<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+ <!-- js -->
+<script src="js/jquery-2.2.3.min.js"></script>
+<script src="js/JiSlider.js"></script>
+		<script>
+		    $(window).load(function () {
+		        $('#JiSlider').JiSlider({ color: '#fff', start: 3, reverse: true }).addClass('ff')
+		    })
+		</script><script type="text/javascript">
+
+		             var _gaq = _gaq || [];
+		             _gaq.push(['_setAccount', 'UA-36251023-1']);
+		             _gaq.push(['_setDomainName', 'jqueryscript.net']);
+		             _gaq.push(['_trackPageview']);
+
+		             (function () {
+		                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		             })();
+
+</script>
+
+<script src="js/ziehharmonika.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.ziehharmonika').ziehharmonika({
+            collapsible: true,
+            prefix: ''
+        });
+    });
+</script>
+<!-- stats -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.countup.js"></script>
+		<script>
+		    $('.counter').countUp();
+		</script>
+<!-- //stats -->
+<script type="text/javascript">
+    $(function () {
+        $("#bars li .bar").each(function (key, bar) {
+            var percentage = $(this).data('percentage');
+
+            $(this).animate({
+                'height': percentage + '%'
+            }, 1000);
+        })
+    })
+</script>
+<!-- flexSlider -->
+	<script defer src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript">
+	    $(window).load(function () {
+	        $('.flexslider').flexslider({
+	            animation: "slide",
+	            start: function (slider) {
+	                $('body').removeClass('loading');
+	            }
+	        });
+	    });
+  </script>
+<!-- //flexSlider -->
+
+
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $(".scroll").click(function (event) {
+            event.preventDefault();
+            $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+        });
+    });
+</script>
+<!-- start-smoth-scrolling -->
+			<script src="js/jarallax.js"></script>
+	<script src="js/SmoothScroll.min.js"></script>
+	<script type="text/javascript">
+	    /* init Jarallax */
+	    $('.jarallax').jarallax({
+	        speed: 0.5,
+	        imgWidth: 1366,
+	        imgHeight: 768
+	    })
+	</script>
+	
+	<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+	    $(document).ready(function () {
+	        /*
+	        var defaults = {
+	        containerID: 'toTop', // fading element id
+	        containerHoverID: 'toTopHover', // fading element hover id
+	        scrollSpeed: 1200,
+	        easingType: 'linear' 
+	        };
+	        */
+
+	        $().UItoTop({ easingType: 'easeOutQuart' });
+
+	    });
+	</script>
+<!-- //here ends scrolling icon -->
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+    }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>

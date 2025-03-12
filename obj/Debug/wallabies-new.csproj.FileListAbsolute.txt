@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2010\Projects\wallabies-new\wallabies-new\bin\wallabies-new.dll
+c:\users\dell\documents\visual studio 2010\Projects\wallabies-new\wallabies-new\bin\wallabies-new.pdb
+c:\users\dell\documents\visual studio 2010\Projects\wallabies-new\wallabies-new\obj\Debug\wallabies-new.dll
+c:\users\dell\documents\visual studio 2010\Projects\wallabies-new\wallabies-new\obj\Debug\wallabies-new.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\wallabies-new\wallabies-new\obj\Debug\wallabies-new.csprojResolveAssemblyReference.cache
+E:\project\wallabies-new\wallabies-new\bin\wallabies-new.dll
+E:\project\wallabies-new\wallabies-new\bin\wallabies-new.pdb
+E:\project\wallabies-new\wallabies-new\obj\Debug\wallabies-new.csprojResolveAssemblyReference.cache
+E:\project\wallabies-new\wallabies-new\obj\Debug\wallabies-new.dll
+E:\project\wallabies-new\wallabies-new\obj\Debug\wallabies-new.pdb

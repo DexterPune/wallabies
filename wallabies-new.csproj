@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF56BA97-DCA0-4F69-97E8-252DEED8F770}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>wallabies_new</RootNamespace>
+    <AssemblyName>wallabies-new</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about-wallabies-warm-care.aspx" />
+    <Content Include="bin\wallabies-warm.dll" />
+    <Content Include="bin\wallabies-warm.pdb" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\JiSlider.css" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\services.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\swipebox.css" />
+    <Content Include="css\team.css" />
+    <Content Include="css\wickedpicker.css" />
+    <Content Include="css\ziehharmonika.css" />
+    <Content Include="default.aspx" />
+    <Content Include="digital-millennium-copyright-act-notification.aspx" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\fontello.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\1Wallabies Slider.jpg" />
+    <Content Include="images\2Wallabies Slider.jpg" />
+    <Content Include="images\3Wallabies Slider.jpg" />
+    <Content Include="images\4Wallabies Slider.jpg" />
+    <Content Include="images\5Wallabies Slider.jpg" />
+    <Content Include="images\6Wallabies Slider.jpg" />
+    <Content Include="images\7Wallabies Slider.jpg" />
+    <Content Include="images\About Us -About Company.jpg" />
+    <Content Include="images\About WALLABIES.jpg" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\ad.jpg" />
+    <Content Include="images\ad1.jpg" />
+    <Content Include="images\arrow.png" />
+    <Content Include="images\back.html" />
+    <Content Include="images\banner1.jpg" />
+    <Content Include="images\banner2.jpg" />
+    <Content Include="images\banner3.jpg" />
+    <Content Include="images\banner4.jpg" />
+    <Content Include="images\banner5.jpg" />
+    <Content Include="images\banner6.jpg" />
+    <Content Include="images\banner7.jpg" />
+    <Content Include="images\bgrep.html" />
+    <Content Include="images\c-arrows.png" />
+    <Content Include="images\Clean Room.jpg" />
+    <Content Include="images\cleanroom.jpg" />
+    <Content Include="images\Contact Us.jpg" />
+    <Content Include="images\Digital Millennium Copyright Act %28DMCA%29 Notification.jpg" />
+    <Content Include="images\doctor.png" />
+    <Content Include="images\Download Center.jpg" />
+    <Content Include="images\emailturn.jpg" />
+    <Content Include="images\Enquiry.jpg" />
+    <Content Include="images\g1.jpg" />
+    <Content Include="images\g10.jpg" />
+    <Content Include="images\g11.jpg" />
+    <Content Include="images\g2.jpg" />
+    <Content Include="images\g3.jpg" />
+    <Content Include="images\g4.jpg" />
+    <Content Include="images\g5.jpg" />
+    <Content Include="images\g6.jpg" />
+    <Content Include="images\g7.jpg" />
+    <Content Include="images\g8.jpg" />
+    <Content Include="images\g9.jpg" />
+    <Content Include="images\gallery.jpg" />
+    <Content Include="images\home.jpg" />
+    <Content Include="images\home1.jpg" />
+    <Content Include="images\home10.jpg" />
+    <Content Include="images\home2.jpg" />
+    <Content Include="images\home3.jpg" />
+    <Content Include="images\home4.jpg" />
+    <Content Include="images\home5.jpg" />
+    <Content Include="images\home6.jpg" />
+    <Content Include="images\home7.jpg" />
+    <Content Include="images\home8.jpg" />
+    <Content Include="images\home9.jpg" />
+    <Content Include="images\icons.svg" />
+    <Content Include="images\instruction.jpg" />
+    <Content Include="images\ISO-CE.png" />
+    <Content Include="images\left.png" />
+    <Content Include="images\left1.png" />
+    <Content Include="images\logo.jpeg" />
+    <Content Include="images\mission.jpg" />
+    <Content Include="images\News &amp; Events.jpg" />
+    <Content Include="images\Normothermia  equipment.jpg" />
+    <Content Include="images\Patient forced air warmer.jpg" />
+    <Content Include="images\Patient forced air warming blankets.jpg" />
+    <Content Include="images\Patient forced air warming system.jpg" />
+    <Content Include="images\Patient thermoregulation system.jpg" />
+    <Content Include="images\Patient warmer.jpg" />
+    <Content Include="images\Patient warming devices.jpg" />
+    <Content Include="images\Patient warming systems.jpg" />
+    <Content Include="images\pharma.png" />
+    <Content Include="images\Privacy Policy.jpg" />
+    <Content Include="images\product 1.jpg" />
+    <Content Include="images\product 2.jpg" />
+    <Content Include="images\product1.jpg" />
+    <Content Include="images\right.png" />
+    <Content Include="images\right1.png" />
+    <Content Include="images\scope.jpg" />
+    <Content Include="images\search.png" />
+    <Content Include="images\services.jpg" />
+    <Content Include="images\services1.jpg" />
+    <Content Include="images\slid1.jpg" />
+    <Content Include="images\slid2.jpg" />
+    <Content Include="images\slid3.jpg" />
+    <Content Include="images\slide.jpg" />
+    <Content Include="images\slide1.jpg" />
+    <Content Include="images\slide2.jpg" />
+    <Content Include="images\slide3.jpg" />
+    <Content Include="images\slidee.jpg" />
+    <Content Include="images\Support.jpg" />
+    <Content Include="images\Symbol and description.jpg" />
+    <Content Include="images\t1.jpg" />
+    <Content Include="images\t2.jpg" />
+    <Content Include="images\t3.jpg" />
+    <Content Include="images\t4.jpg" />
+    <Content Include="images\Terms and Conditions.jpg" />
+    <Content Include="images\terms of Use.jpg" />
+    <Content Include="images\Vision and Mission.jpg" />
+    <Content Include="images\ww1.jpg" />
+    <Content Include="images\ww2.jpg" />
+    <Content Include="images\ww3.jpg" />
+    <Content Include="images\ww4.jpg" />
+    <Content Include="images\ww5.jpg" />
+    <Content Include="images\ww6.jpg" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\cbpFWTabs.js" />
+    <Content Include="js\easing.js" />
+    <Content Include="js\jarallax.js" />
+    <Content Include="js\JiSlider.js" />
+    <Content Include="js\jquery-2.2.3.min.js" />
+    <Content Include="js\jquery-ui.js" />
+    <Content Include="js\jquery.countup.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.swipebox.min.js" />
+    <Content Include="js\jquery.waypoints.min.js" />
+    <Content Include="js\modernizr-2.6.2.min.js" />
+    <Content Include="js\move-top.js" />
+    <Content Include="js\numscroller-1.0.js" />
+    <Content Include="js\SmoothScroll.min.js" />
+    <Content Include="js\wickedpicker.js" />
+    <Content Include="js\ziehharmonika.js" />
+    <Content Include="Normothermia-Equipment.aspx" />
+    <Content Include="patient-forced-air-warmer.aspx" />
+    <Content Include="patient-forced-air-warming-blankets.aspx" />
+    <Content Include="patient-forced-air-warming-system.aspx" />
+    <Content Include="patient-thermoregulation-system.aspx" />
+    <Content Include="patient-warmer.aspx" />
+    <Content Include="patient-warming-devices.aspx" />
+    <Content Include="patient-warming-systems.aspx" />
+    <Content Include="symbol-and-description.aspx" />
+    <Content Include="thank-you-wallabies.aspx" />
+    <Content Include="wallabies-forced-air-patient-warming-blanket.aspx" />
+    <Content Include="wallabies-forced-air-patient-warming-unit-contact.aspx" />
+    <Content Include="wallabies-forced-air-patient-warming-unit-enquiry.aspx" />
+    <Content Include="wallabies-forced-air-patient-warming-unit.aspx" />
+    <Content Include="wallabies-warm-care-download-Brochure.aspx" />
+    <Content Include="wallabies-warm-care-download-center.aspx" />
+    <Content Include="wallabies-warm-care-gallery.aspx" />
+    <Content Include="wallabies-warm-care-privacy-policy.aspx" />
+    <Content Include="wallabies-warm-care-support.aspx" />
+    <Content Include="wallabies-warm-care-terms-and-conditios.aspx" />
+    <Content Include="wallabies-warm-care-Terms-Of-Use.aspx" />
+    <Content Include="wallabies-warm-care-vision-mission.aspx" />
+    <Content Include="wallabies-warm-patient-warming-contact.aspx" />
+    <Content Include="warm-care-clean-room.aspx" />
+    <Content Include="warm-care-services.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="thank-you-wallabies.aspx.cs">
+      <DependentUpon>thank-you-wallabies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="thank-you-wallabies.aspx.designer.cs">
+      <DependentUpon>thank-you-wallabies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wallabies-warm-care-download-Brochure.aspx.cs">
+      <DependentUpon>wallabies-warm-care-download-Brochure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wallabies-warm-care-download-Brochure.aspx.designer.cs">
+      <DependentUpon>wallabies-warm-care-download-Brochure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wallabies-warm-patient-warming-contact.aspx.cs">
+      <DependentUpon>wallabies-warm-patient-warming-contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wallabies-warm-patient-warming-contact.aspx.designer.cs">
+      <DependentUpon>wallabies-warm-patient-warming-contact.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="main.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\wallabies warmer.pdf" />
+    <None Include="images\wallabies-blanket.pdf" />
+    <None Include="images\wallabies-warmer.pdf" />
+    <None Include="images\warmer-mannual.pdf" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>18009</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
